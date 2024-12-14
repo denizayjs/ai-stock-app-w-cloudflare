@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s06866h",
+  "description": "https://scrimba.com/s06866h",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
